@@ -1,5 +1,8 @@
 GOOGLE SLIDES DUMP TOOL — BY SPIRAL
 
+ALWAYS USE THESE SCRIPTS FOR YOUR OWN PERSONNAL GOOGLE SLIDES ! 
+I DO NOT SUPPORT PIRACY AT ALL.
+
 Requirements: 
 -Administrative rights
 -Set-ExecutionPolicy -Bypass (re-set it to 'Restricted' after use)
@@ -21,5 +24,6 @@ PS:
   You can manually delete the unwanted images from the "captures" folder and run img-2-pdf.py or img-2-docx again to generate a new PDF/DOCX named "result.pdf/docx".  
   Rename it as you wish afterward.
 - You can adjust the delay between captures inside the .ps1 script (default: 1200 ms) to avoid double screenshots.
+
 
 
