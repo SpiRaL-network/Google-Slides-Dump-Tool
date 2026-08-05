@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Tool output
+captures/
+result.pdf
+result.docx
+result-searchable*.pdf
+.*.tmp.pdf
+.cache/
+
+# Windows
+Thumbs.db
+Desktop.ini
